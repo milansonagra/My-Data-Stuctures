@@ -1,5 +1,5 @@
 # My-Data-Stuctures-and-Algorithms
-I have upload all the data structures & algorithms made by me during studies. 
+I have upload all the data structures & algorithms implemented by me during studies. 
 <table border="1" style="height: 188px; width: 492px;">
 	<tbody>
 		<tr>
@@ -19,14 +19,14 @@ I have upload all the data structures & algorithms made by me during studies.
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>✔</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Linear%20Searching.c">✔</a></td>
 		</tr>
 		<tr>
 			<td style="width: 168px;">Jump Searching</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>✔</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Jump%20Search.c">✔</a></td>
 		</tr>
 		<tr>
 			<td style="width: 168px;">Binary Searching</td>
@@ -37,15 +37,15 @@ I have upload all the data structures & algorithms made by me during studies.
 		</tr>
 		<tr>
 			<td style="width: 168px;">Stack</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Stack">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>✔</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Stack/My_Stack.py">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width: 168px;">Queue</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>✔</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 		</tr>
@@ -69,7 +69,7 @@ I have upload all the data structures & algorithms made by me during studies.
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>✔</td>
-		</tr
+		</tr>
 		<tr>
 			<td style="width: 168px;">Selection Sorting</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
