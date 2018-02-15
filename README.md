@@ -1,5 +1,5 @@
-# My-Data-Stuctures
-I have upload all the data structures made by me. 
+# My-Data-Stuctures-and-Algorithms
+I have upload all the data structures & algorithms made by me during studies. 
 <table border="1" style="height: 188px; width: 492px;">
 <tbody>
 <tr>
