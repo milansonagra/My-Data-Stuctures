@@ -36,6 +36,27 @@ I have upload all the data structures & algorithms implemented by me during stud
 			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Binary%20Search.c">✔</a></td>
 		</tr>
 		<tr>
+			<td style="width: 168px;">Bubble Sorting</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Sorting/Bubble%20Sorting.c">✔</a></td>
+		</tr>
+		<tr>
+			<td style="width: 168px;">Selection Sorting</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a  href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Sorting/Selection%20Sorting.c">✔</a></td>
+		</tr>
+		<tr>
+			<td style="width: 168px;">Insertion Sorting</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Sorting/Insertion%20Sorting.c">✔</td>
+		</tr>
+		<tr>
 			<td style="width: 168px;">Stack</td>
 			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Stack">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
@@ -62,27 +83,6 @@ I have upload all the data structures & algorithms implemented by me during stud
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>✔</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="width: 168px;">Bubble Sorting</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>✔</td>
-		</tr>
-		<tr>
-			<td style="width: 168px;">Selection Sorting</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>✔</td>
-		</tr>
-		<tr>
-			<td style="width: 168px;">Insertion Sorting</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>✔</td>
 		</tr>
 	</tbody>
 </table>
