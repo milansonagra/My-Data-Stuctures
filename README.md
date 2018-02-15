@@ -69,7 +69,7 @@ I have upload all the data structures & algorithms made by me during studies.
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>✔</td>
-		</tr>
+		</tr
 		<tr>
 			<td style="width: 168px;">Selection Sorting</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
