@@ -1,6 +1,6 @@
 # My-Data-Stuctures-and-Algorithms
-I have upload all the data structures & algorithms implemented by me during studies. 
-<table border="1" style="height: 188px; width: 492px;">
+<p>I have upload all the data structures & algorithms implemented by me during studies.</p> 
+<table style="height: 188px; width: 492px;">
 	<thead>
 		<tr>
 			<th>Data Structures & Algorithms</th>
@@ -62,9 +62,9 @@ I have upload all the data structures & algorithms implemented by me during stud
 		</tr>
 		<tr>
 			<td style="width: 168px;">Queue</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>✔</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Queue/">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Queue/My_Queue.py">✔</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 		</tr>
 		<tr>
