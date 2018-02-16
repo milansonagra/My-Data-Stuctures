@@ -19,21 +19,21 @@ I have upload all the data structures & algorithms implemented by me during stud
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Linear%20Searching.c">✔</a></td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Linear%20Searching.c" target="_blank">✔</a></td>
 		</tr>
 		<tr>
 			<td style="width: 168px;">Jump Searching</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Jump%20Search.c">✔</a></td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Jump%20Search.c"  target="_blank">✔</a></td>
 		</tr>
 		<tr>
 			<td style="width: 168px;">Binary Searching</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Binary%20Search.c">✔</a></td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Binary%20Search.c"  target="_blank">✔</a></td>
 		</tr>
 		<tr>
 			<td style="width: 168px;">Bubble Sorting</td>
@@ -47,20 +47,20 @@ I have upload all the data structures & algorithms implemented by me during stud
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”><a  href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Sorting/Selection%20Sorting.c">✔</a></td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a  href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Sorting/Selection%20Sorting.c"  target="_blank">✔</a></td>
 		</tr>
 		<tr>
 			<td style="width: 168px;">Insertion Sorting</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Sorting/Insertion%20Sorting.c">✔</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Sorting/Insertion%20Sorting.c" target="_blank">✔</td>
 		</tr>
 		<tr>
 			<td style="width: 168px;">Stack</td>
-			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Stack">✔</a></td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Stack" target="_blank">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Stack/My_Stack.py">✔</a></td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Stack/My_Stack.py" target="_blank">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 		</tr>
 		<tr>
