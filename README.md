@@ -56,7 +56,7 @@
 		<tr>
 			<td style="width: 168px;">Stack</td>
 			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Stack" target="_blank">✔</a></td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Stack/Dinamic%20Stack.cpp">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Stack/My_Stack.py" target="_blank">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 		</tr>
@@ -69,8 +69,8 @@
 		</tr>
 		<tr>
 			<td style="width: 168px;">Linked List&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>✔</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>✔</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/tree/master/Linked%20List">✔</a></td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/tree/master/Linked%20List">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 		</tr>
