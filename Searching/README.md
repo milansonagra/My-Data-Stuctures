@@ -1,4 +1,4 @@
-<h2>Searching:</h2>
+<h2>Searching</h2>
 <p>
 	<h4>Problem: Suppose we have array or list of having 'n' element and we want to find given element from it.</h4>
 </p>
