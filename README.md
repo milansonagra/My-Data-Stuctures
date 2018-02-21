@@ -78,7 +78,7 @@
 			<td style="width: 168px;">Heap</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>✔</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/My%20Heap.py">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 		</tr>
 	</tbody>
