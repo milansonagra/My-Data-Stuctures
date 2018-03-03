@@ -81,5 +81,19 @@
 			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/My%20Heap.py">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 		</tr>
+	<tr>
+			<td style="width: 168px;">Binary Search Tree</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Binary%20Search%20Tree/p8_1.cpp">✔</a></td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width: 168px;">S-DES</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/S-DES%20Encryption%20Algorithm/MY_SDES.java">✔</a></td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+		</tr>
 	</tbody>
 </table>
