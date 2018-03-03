@@ -1,1 +1,3 @@
 <h2>Sorting</h2>
+<p>There are too many algorithms for sorting, because in real world sorting is most common and basic requirement. So we have many methods and algorithms for sorting which are used in studies.</p>
+<p>Here I have implemented basic sorting algorithms like <a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Sorting/Bubble%20Sorting.c">Bubble Sort</a>, <a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Sorting/Selection%20Sorting.c">Selection Sort</a>, <a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Sorting/Insertion%20Sorting.c">Insertation Sort</a> in C.</p>
