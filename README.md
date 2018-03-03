@@ -12,27 +12,6 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td style="width: 168px;">Linear Searching</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Linear%20Searching.c" target="_blank">✔</a></td>
-		</tr>
-		<tr>
-			<td style="width: 168px;">Jump Searching</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Jump%20Search.c"  target="_blank">✔</a></td>
-		</tr>
-		<tr>
-			<td style="width: 168px;">Binary Searching</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Binary%20Search.c"  target="_blank">✔</a></td>
-		</tr>
-		<tr>
 			<td style="width: 168px;">Bubble Sorting</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
@@ -52,6 +31,27 @@
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Sorting/Insertion%20Sorting.c" target="_blank">✔</td>
+		</tr>
+		<tr>
+			<td style="width: 168px;">Linear Searching</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Linear%20Searching.c" target="_blank">✔</a></td>
+		</tr>
+		<tr>
+			<td style="width: 168px;">Jump Searching</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Jump%20Search.c"  target="_blank">✔</a></td>
+		</tr>
+		<tr>
+			<td style="width: 168px;">Binary Searching</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Binary%20Search.c"  target="_blank">✔</a></td>
 		</tr>
 		<tr>
 			<td style="width: 168px;">Stack</td>
@@ -84,7 +84,7 @@
 	<tr>
 			<td style="width: 168px;">Binary Search Tree</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Binary%20Search%20Tree/p8_1.cpp">✔</a></td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Binary%20Search%20Tree/Binary%20Search%20Tree.cpp">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 		</tr>
