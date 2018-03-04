@@ -96,6 +96,13 @@
 			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Tower%20Of%20Henoi/TowerOfHenoi.c">✔</a></td>
 		</tr>
 		<tr>
+			<td style="width: 168px;">Hashing</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Hashing/Hashing.c">✔</a></td>
+		</tr>
+		<tr>
 			<td style="width: 168px;">S-DES</td>
 			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/S-DES%20Encryption%20Algorithm/MY_SDES.java">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
