@@ -50,7 +50,7 @@
 			<td style="width: 168px;">Binary Searching</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
-			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
+			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/BinarySearch.py">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Searching/Binary%20Search.c"  target="_blank">✔</a></td>
 		</tr>
 		<tr>
