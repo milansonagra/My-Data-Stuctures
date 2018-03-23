@@ -103,14 +103,14 @@
 			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Hashing/Hashing.c">✔</a></td>
 		</tr>
 		<tr>
-			<td style="width: 168px;"><i>Primes Algorithm<br>(greedy approach)</i></td>
+			<td style="width: 168px;">Primes Algorithm<br><i>(greedy approach)</i></td>
 			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Greedy%20Algorithm/Prims.java">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="width: 168px;"><i>Job-scheduling Algorithm<br>(greedy approach)</i></td>
+			<td style="width: 168px;">Job-scheduling Algorithm<br><i>(greedy approach)</i></td>
 			<td style=“width: 85px; text-align: center;” align=“center”><a href="https://github.com/milansonagra/My-Data-Stuctures-and-Algorithm/blob/master/Greedy%20Algorithm/JOB_SCHEDULING.java">✔</a></td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
 			<td style=“width: 85px; text-align: center;” align=“center”>&nbsp;</td>
