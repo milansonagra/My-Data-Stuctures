@@ -70,7 +70,7 @@ class Graph {
     }
 }
 
-public class P5_2_Prims {
+public class Prims {
 
     public static void main(String[] args) {
 
@@ -96,35 +96,3 @@ public class P5_2_Prims {
         /*FOR ANALYSIS:*/ System.out.println("Total Execution Time: " + executionTime + " ms");
     }
 }
-
-/*
-
-        int a = 100;
-        int graph[][] = new int[a][a];
-
-        for(int i=0;i<a;i++){
-            for(int j=0;j<a;j++){
-                if(i==j){
-                    graph[i][j] = 0;
-                }else{
-                    int var;
-                    graph[i][j] = graph[j][i] = (var=(int) (Math.random() * 10))==0?Integer.MAX_VALUE:var;
-                }
-            }
-        }
-
-
-        /*FOR ANALYSIS:*\/ long startTime = System.currentTimeMillis();
-
-        Graph G1 = new Graph(graph);
-        int Cost = G1.mstPrimes(0);
-
-        /*FOR ANALYSIS:*\/ long endTime = System.currentTimeMillis();
-
-        System.out.printf("cost %d\n", Cost);
-        G1.printMST();
-        /*FOR ANALYSIS:*\/ long executionTime = endTime - startTime;
-
-        /*FOR ANALYSIS:*\/ System.out.println("Total Execution Time: " + executionTime + " ms");
-
- */
