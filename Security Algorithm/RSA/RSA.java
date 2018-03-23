@@ -1,5 +1,3 @@
-package PR_3_RSA.REAL_TIME_ALGO;
-
 import java.math.BigInteger;
 import java.util.Random;
 
