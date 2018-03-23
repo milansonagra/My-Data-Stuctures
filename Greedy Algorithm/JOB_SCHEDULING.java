@@ -93,14 +93,11 @@ class Job_Scheduling {
             } else {
                 System.out.println("Name of Candidate: " + AllocatedTime[i] + "\tTime Allocated: " + i + "-" + (i + 1));
             }
-//    if(AllocatedTime[i] != null){
-//        System.out.println("Name of Candidate: " + AllocatedTime[i] + "\tTime Allocated: " + i + "-" + (i + 1));
-//    }
         }
     }
 }
 
-public class P5_1_JOB_SCHEDULING {
+public class JOB_SCHEDULING {
 
     public static void main(String[] args) {
 
@@ -133,45 +130,3 @@ public class P5_1_JOB_SCHEDULING {
         /*FOR ANALYSIS:*/ System.out.println("Total Execution Time: " + executionTime + " ms");
     }
 }
-/*
-
-
-        
-        int a = 10;
-//        Entries Application1 = new Entries("a", 4, 20);
-//        Entries Application2 = new Entries("b", 1, 10);
-//        Entries Application3 = new Entries("c", 1, 40);
-//        Entries Application4 = new Entries("d", 1, 30);
-//        Entries Application5 = new Entries("e", 3, 15);
-        Entries Application[] = new Entries[100];
-        for (int i = 0; i < 10*a; i++) {
-            Application[i] = new Entries("a" + i, (int) (Math.random() * a*10), (int) (Math.random() * 100));
-        }
-
-        LinkedList<Entries> List = new LinkedList<Entries>();
-
-//        List.add(Application1);
-//        List.add(Application2);
-//        List.add(Application3);
-//        List.add(Application4);
-//        List.add(Application5);
-//        List.add(Application6);
-        for (int i = 0; i < 10*a; i++) {
-            List.add(Application[i]);
-        }
-        /*FOR ANALYSIS:*\/ long startTime = System.currentTimeMillis();
-
-        Job_Scheduling HollA = new Job_Scheduling(List);
-
-        System.out.println("MAXIMUM PROFIT: " + HollA.maxProfit());
-        /*FOR ANALYSIS:*\/ long endTime = System.currentTimeMillis();
-
-        System.out.println("\nTime Table of HallA:");
-        HollA.showListOfAllocatedEntries();
-
-        /*FOR ANALYSIS:*\/ long executionTime = endTime - startTime;
-
-        /*FOR ANALYSIS:*\/ System.out.println("Total Execution Time: " + executionTime + " ms");
-  
-
-*/
